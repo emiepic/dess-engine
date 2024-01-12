@@ -17,8 +17,6 @@
 
 A demo for a DELTATRAVELER recreation engine.
 
----
-
 ## Credits:
 
 "Nightmare Knight" - Toby Fox
