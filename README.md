@@ -19,5 +19,5 @@ A demo for a DELTATRAVELER recreation engine.
 
 ## Credits:
 
-"Nightmare Knight" - Toby Fox
+"Nightmare Knight" - Toby Fox  
 "Battle against the TRUE Starwalker" - Xhitest
